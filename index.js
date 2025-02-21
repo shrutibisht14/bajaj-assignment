@@ -17,9 +17,9 @@ app.post('/bfhl', (req, res) => {
 
     res.json({
         is_success: true,
-        user_id: "john_doe_17091999",  // Change this to your user_id format
-        email: "john@xyz.com",
-        roll_number: "ABCD123",
+        user_id: "SHRUTI_BISHT_14062004",  // Change this to your user_id format
+        email: "shrutibisht1414.com",
+        roll_number: "22BCS14964",
         numbers,
         alphabets,
         highest_alphabet: highestAlphabet
